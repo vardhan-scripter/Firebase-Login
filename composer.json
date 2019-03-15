@@ -1,0 +1,10 @@
+{
+    "name": "saivardhan/firebase",
+    "description": "firebase application",
+    "type": "project",
+    "license": "GNU3",
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "4.18"
+    }
+}
