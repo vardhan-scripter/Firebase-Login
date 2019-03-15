@@ -1,0 +1,2 @@
+secret/applicationname-hashcode.json
+vendor/ file system
